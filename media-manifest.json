@@ -1,0 +1,16 @@
+{
+  "project": "Manara Learning",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 947694,
+      "sha256": "730c8714686d37c14acf807cc78c197cf5b52d6a7638e08848a1d7325f81ec8b"
+    },
+    {
+      "path": "media/detail.png",
+      "bytes": 779006,
+      "sha256": "9c0f9bafc1d0b797030347b638e9e99d1c88172f6622d29802b6ee5d6222b583"
+    }
+  ]
+}
