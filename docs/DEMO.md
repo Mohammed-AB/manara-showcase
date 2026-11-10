@@ -16,6 +16,9 @@ Pause on the evidence at each decision: english / arabic reading; source-linked 
 
 - [Main screenshot](../media/overview.png)
 - [Second view](../media/detail.png)
+- [Recorded walkthrough](../media/walkthrough.webm)
+
+The walkthrough covers bilingual reading, all three hall reflections and the Ask entry screen without a new paid question. The earlier live source-linked answers are documented in the verification notes.
 
 A recording shows a saved run, not a new provider request. Browser viewport checks do not imply physical-device testing.
 
